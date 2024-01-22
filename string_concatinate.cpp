@@ -30,8 +30,8 @@ public:
 
 int main() {
 
-    MyString str1("aayush, ");
-    MyString str2("pandey");
+    MyString str1("sudarshan, ");
+    MyString str2("pathak");
     MyString result = str1 + str2;
     cout << "\nConcatenated Result:" << endl;
     result.display();
